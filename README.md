@@ -30,3 +30,5 @@ DAY-1 EXPERIMENTS(
 ![image](https://user-images.githubusercontent.com/112924718/193982351-48175e9a-2b85-472e-9ff9-37e491428444.png)
 ## 14.NTH PRIME NUMBER
 ![image](https://user-images.githubusercontent.com/112924718/193982649-53a0cb42-1d2e-4a8a-a435-81915bf09b1e.png)
+## 15. PYTHAGOREAN
+![image](https://user-images.githubusercontent.com/112924718/193983428-2be755e8-2e30-4d9c-b7eb-5a348b70710d.png)
