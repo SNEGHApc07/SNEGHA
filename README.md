@@ -50,4 +50,6 @@ DAY-2 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-2%20EXPERIM
 ![image](https://user-images.githubusercontent.com/112924718/193987909-306732b5-4ae6-4d7d-8994-c2889f3c08c9.png)
 ## 6. DIAGONAL MATRIX
 ![image](https://user-images.githubusercontent.com/112924718/193988238-228a5c39-b7fb-4841-91cb-6969ccd5eca5.png)
+## 7. MMINIMUM AND MAXIMUM
+![image](https://user-images.githubusercontent.com/112924718/193988584-fcbac9b2-a2e4-435a-9fe8-7c6082567488.png)
 
