@@ -24,3 +24,5 @@ DAY-1 EXPERIMENTS(
 ![image](https://user-images.githubusercontent.com/112924718/193981254-650686fb-978c-48f8-86ad-c77cc6d71ba4.png)
 ## 11. PERRMUTATION
 ![image](https://user-images.githubusercontent.com/112924718/193981635-b816e317-baab-438a-aaf6-9dfeb332a097.png)
+## 12.  SIMPLE INTEREST
+![image](https://user-images.githubusercontent.com/112924718/193981984-7ad9e65e-fd57-47f9-8bc7-7e8e15bc4485.png)
