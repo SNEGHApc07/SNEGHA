@@ -16,3 +16,5 @@ DAY-1 EXPERIMENTS(
 ![image](https://user-images.githubusercontent.com/112924718/193978923-8539d90e-a7c8-43d2-be10-02018e38730f.png)
 ## 7.  P TO Q
 ![image](https://user-images.githubusercontent.com/112924718/193979627-d38eb1d1-a64f-4a31-acc8-fd4e9ff16121.png)
+## 8. MUTLIPLICATTION TABLE 
+![image](https://user-images.githubusercontent.com/112924718/193980669-fa989f7b-4ae3-4070-9a1e-f94cf9dbafe1.png)
