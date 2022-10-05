@@ -44,3 +44,5 @@ DAY-2 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-2%20EXPERIM
 ![image](https://user-images.githubusercontent.com/112924718/193986617-dfabc027-4baf-4296-9ca3-80a29234fe1b.png)
 ## 3.REVERSE AN ARRAY
 ![image](https://user-images.githubusercontent.com/112924718/193987233-5bc44477-d726-4bc8-abea-1d9a451be29c.png)
+## 4. MATRIX
+![image](https://user-images.githubusercontent.com/112924718/193987617-75449184-3c54-4cf3-a881-d16164cfb69a.png)
