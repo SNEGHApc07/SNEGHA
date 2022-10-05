@@ -36,6 +36,7 @@ DAY-1 EXPERIMENTS(
 
 
 ## DAY-2 EXPERIMENTS
+DAY-2 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-2%20EXPERIMENTS)
 ## OUTPUT
 ## 1. COMPOSITE NUMBERS
 ![image](https://user-images.githubusercontent.com/112924718/193985535-e55c35d2-c9e4-41ba-a3d5-e170e2f15779.png)
