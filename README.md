@@ -28,3 +28,5 @@ DAY-1 EXPERIMENTS(
 ![image](https://user-images.githubusercontent.com/112924718/193981984-7ad9e65e-fd57-47f9-8bc7-7e8e15bc4485.png)
 ## 13. STRONG NUMBER
 ![image](https://user-images.githubusercontent.com/112924718/193982351-48175e9a-2b85-472e-9ff9-37e491428444.png)
+## 14.NTH PRIME NUMBER
+![image](https://user-images.githubusercontent.com/112924718/193982649-53a0cb42-1d2e-4a8a-a435-81915bf09b1e.png)
