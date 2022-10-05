@@ -52,4 +52,6 @@ DAY-2 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-2%20EXPERIM
 ![image](https://user-images.githubusercontent.com/112924718/193988238-228a5c39-b7fb-4841-91cb-6969ccd5eca5.png)
 ## 7. MMINIMUM AND MAXIMUM
 ![image](https://user-images.githubusercontent.com/112924718/193988584-fcbac9b2-a2e4-435a-9fe8-7c6082567488.png)
+## 8. NTH MAXI MTH MINI
+![image](https://user-images.githubusercontent.com/112924718/193989155-03dee2e3-1b8e-4b7e-ae88-7b7c4ff39ded.png)
 
