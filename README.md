@@ -141,7 +141,12 @@ DAY-3 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-3%20EXPERIM
 
 ![image](https://user-images.githubusercontent.com/112924718/193997014-f83bbd8b-21e4-4d45-a5b0-c03bcc5b8ce8.png)
 
-## 8.READINNG AND WRITING TO TEXT FILES
+## 8.READING AND WRITING TO TEXT FILES
 
 ![image](https://user-images.githubusercontent.com/112924718/193997718-c94b23e0-d862-4186-a66d-c44a3b36f161.png)
+
+## 9. APPEND THE CONTENT TO EXISTING FILE
+
+![image](https://user-images.githubusercontent.com/112924718/193998678-4e477265-a61f-4295-aaa5-5d18464d3229.png)
+
 
