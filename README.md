@@ -46,3 +46,5 @@ DAY-2 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-2%20EXPERIM
 ![image](https://user-images.githubusercontent.com/112924718/193987233-5bc44477-d726-4bc8-abea-1d9a451be29c.png)
 ## 4. MATRIX
 ![image](https://user-images.githubusercontent.com/112924718/193987617-75449184-3c54-4cf3-a881-d16164cfb69a.png)
+## 5. DUPLICATES
+![image](https://user-images.githubusercontent.com/112924718/193987909-306732b5-4ae6-4d7d-8994-c2889f3c08c9.png)
