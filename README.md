@@ -137,4 +137,7 @@ DAY-3 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-3%20EXPERIM
 
 ![image](https://user-images.githubusercontent.com/112924718/193996402-75feb4d7-4c63-46c0-aad7-1a95bdeb197d.png)
 
+## 7. PRINT FILES
+
+![image](https://user-images.githubusercontent.com/112924718/193997014-f83bbd8b-21e4-4d45-a5b0-c03bcc5b8ce8.png)
 
