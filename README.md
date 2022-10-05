@@ -40,3 +40,5 @@ DAY-2 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-2%20EXPERIM
 ## OUTPUT
 ## 1. COMPOSITE NUMBERS
 ![image](https://user-images.githubusercontent.com/112924718/193985535-e55c35d2-c9e4-41ba-a3d5-e170e2f15779.png)
+## 2. NEGATIVE NUMBERS IN ARRAY
+![image](https://user-images.githubusercontent.com/112924718/193986617-dfabc027-4baf-4296-9ca3-80a29234fe1b.png)
