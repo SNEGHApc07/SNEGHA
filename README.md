@@ -149,4 +149,7 @@ DAY-3 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-3%20EXPERIM
 
 ![image](https://user-images.githubusercontent.com/112924718/193998678-4e477265-a61f-4295-aaa5-5d18464d3229.png)
 
+## 10.ASCII VALUES
+
+![image](https://user-images.githubusercontent.com/112924718/193999084-f95bd50f-43aa-465f-bf68-6da4cd8dc229.png)
 
