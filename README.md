@@ -32,3 +32,10 @@ DAY-1 EXPERIMENTS(
 ![image](https://user-images.githubusercontent.com/112924718/193982649-53a0cb42-1d2e-4a8a-a435-81915bf09b1e.png)
 ## 15. PYTHAGOREAN
 ![image](https://user-images.githubusercontent.com/112924718/193983428-2be755e8-2e30-4d9c-b7eb-5a348b70710d.png)
+
+
+
+## DAY-2 EXPERIMENTS
+## OUTPUT
+## 1. COMPOSITE NUMBERS
+![image](https://user-images.githubusercontent.com/112924718/193985535-e55c35d2-c9e4-41ba-a3d5-e170e2f15779.png)
