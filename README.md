@@ -12,3 +12,5 @@ DAY-1 EXPERIMENTS(
 ![image](https://user-images.githubusercontent.com/112924718/193978485-046d547c-59c3-4a13-9fcf-a869dc1b7297.png)
 ## 5. VOTE AGE
 ![image](https://user-images.githubusercontent.com/112924718/193978688-be8513db-41e0-47d3-b515-59faee8a3752.png)
+## 6. ODD OR EVEN
+![image](https://user-images.githubusercontent.com/112924718/193978923-8539d90e-a7c8-43d2-be10-02018e38730f.png)
