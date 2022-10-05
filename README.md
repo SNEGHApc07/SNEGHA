@@ -22,3 +22,5 @@ DAY-1 EXPERIMENTS(
 ![image](https://user-images.githubusercontent.com/112924718/193980965-53b2aa55-f519-4fa6-8b94-021895256762.png)
 ## 10. SUM OF DIGITS
 ![image](https://user-images.githubusercontent.com/112924718/193981254-650686fb-978c-48f8-86ad-c77cc6d71ba4.png)
+## 11. PERRMUTATION
+![image](https://user-images.githubusercontent.com/112924718/193981635-b816e317-baab-438a-aaf6-9dfeb332a097.png)
