@@ -20,3 +20,5 @@ DAY-1 EXPERIMENTS(
 ![image](https://user-images.githubusercontent.com/112924718/193980669-fa989f7b-4ae3-4070-9a1e-f94cf9dbafe1.png)
 ## 9. LEAP YAER
 ![image](https://user-images.githubusercontent.com/112924718/193980965-53b2aa55-f519-4fa6-8b94-021895256762.png)
+## 10. SUM OF DIGITS
+![image](https://user-images.githubusercontent.com/112924718/193981254-650686fb-978c-48f8-86ad-c77cc6d71ba4.png)
