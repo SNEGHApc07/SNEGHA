@@ -14,3 +14,5 @@ DAY-1 EXPERIMENTS(
 ![image](https://user-images.githubusercontent.com/112924718/193978688-be8513db-41e0-47d3-b515-59faee8a3752.png)
 ## 6. ODD OR EVEN
 ![image](https://user-images.githubusercontent.com/112924718/193978923-8539d90e-a7c8-43d2-be10-02018e38730f.png)
+## 7.  P TO Q
+![image](https://user-images.githubusercontent.com/112924718/193979627-d38eb1d1-a64f-4a31-acc8-fd4e9ff16121.png)
