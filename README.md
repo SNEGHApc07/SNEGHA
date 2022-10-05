@@ -63,4 +63,5 @@ DAY-2 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-2%20EXPERIM
 DAY-3 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-3%20EXPERIMENTS)
 ## OUTPUT
 ## 1.STUDENT
+![image](https://user-images.githubusercontent.com/112924718/193991513-e915b3c3-4c3a-40e5-8aa3-ec7f34fc5013.png)
 
