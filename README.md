@@ -1,6 +1,6 @@
 # SNEGHA
 ## DAY-1 EXPERIMENTS
-DAY-1 EXPERIMENTS(
+DAY-1 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-1%20EXPERIMENTS)
 ## OUTPUT
 ## 1. ARITHEMATIC OPERATIONS
 ![image](https://user-images.githubusercontent.com/112924718/193977364-dd9cfa76-f67c-46b3-a824-7fb716255ad5.png)
