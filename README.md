@@ -54,4 +54,6 @@ DAY-2 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-2%20EXPERIM
 ![image](https://user-images.githubusercontent.com/112924718/193988584-fcbac9b2-a2e4-435a-9fe8-7c6082567488.png)
 ## 8. NTH MAXI MTH MINI
 ![image](https://user-images.githubusercontent.com/112924718/193989155-03dee2e3-1b8e-4b7e-ae88-7b7c4ff39ded.png)
+## 9. BINARY SEARCH METHOD
+![image](https://user-images.githubusercontent.com/112924718/193989793-647b0c7f-584c-4e8a-b87c-8e5cd0583b9e.png)
 
