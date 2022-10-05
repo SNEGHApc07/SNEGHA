@@ -26,3 +26,5 @@ DAY-1 EXPERIMENTS(
 ![image](https://user-images.githubusercontent.com/112924718/193981635-b816e317-baab-438a-aaf6-9dfeb332a097.png)
 ## 12.  SIMPLE INTEREST
 ![image](https://user-images.githubusercontent.com/112924718/193981984-7ad9e65e-fd57-47f9-8bc7-7e8e15bc4485.png)
+## 13. STRONG NUMBER
+![image](https://user-images.githubusercontent.com/112924718/193982351-48175e9a-2b85-472e-9ff9-37e491428444.png)
