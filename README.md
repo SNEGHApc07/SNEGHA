@@ -57,3 +57,10 @@ DAY-2 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-2%20EXPERIM
 ## 9. BINARY SEARCH METHOD
 ![image](https://user-images.githubusercontent.com/112924718/193989793-647b0c7f-584c-4e8a-b87c-8e5cd0583b9e.png)
 
+
+
+## DAY-3 EXPERIMENTS
+DAY-3 EXPERIMENTS(
+## OUTPUT
+## STUDENT
+
