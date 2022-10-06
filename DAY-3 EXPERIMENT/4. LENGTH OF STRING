@@ -15,7 +15,7 @@ int main() {
    getch();
 }
  
-int string_ln(char*p) /* p=&str[0] */
+int string_ln(char*p) 
 {
    int count = 0;
    while (*p != '\0') {
