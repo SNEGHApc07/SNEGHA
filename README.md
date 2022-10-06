@@ -111,9 +111,9 @@ DAY-2 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-2%20EXPERIM
 
 
 
-## DAY-3 EXPERIMENTS
+## 05.10.22 EXPERIMENTS
 
-DAY-3 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-3%20EXPERIMENTS)
+05.10.22 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-3%20EXPERIMENTS)
 
 ## OUTPUT
 
@@ -152,4 +152,11 @@ DAY-3 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-3%20EXPERIM
 ## 10.ASCII VALUES
 
 ![image](https://user-images.githubusercontent.com/112924718/193999084-f95bd50f-43aa-465f-bf68-6da4cd8dc229.png)
+
+
+
+
+## DAY-3 EXPERIMENT
+
+DAY-3 EXPERIMENT(
 
