@@ -160,3 +160,41 @@ DAY-2 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-2%20EXPERIM
 
 DAY-3 EXPERIMENT(
 
+## OUTPUT
+
+## 1. ADD TWO NUMBERS
+
+![image](https://user-images.githubusercontent.com/112924718/194313710-4052a165-fce7-44ed-8722-99bf31d2755f.png)
+
+## 2. MAXIMUM NUMBER
+
+![image](https://user-images.githubusercontent.com/112924718/194313956-d93ba9e5-1b40-4421-8484-c69954a10079.png)
+
+## 3.LARGEST ELEMENT
+
+![image](https://user-images.githubusercontent.com/112924718/194314157-3a1d7469-75ff-4d3b-a3b5-7e5ac60a5c52.png)
+
+## 4.LENGTH OF STRING
+
+![image](https://user-images.githubusercontent.com/112924718/194314359-862679ff-bc36-41cd-8ef1-302b28cbc86c.png)
+
+## 5.ADD WITH CALL BY REFERENCE
+
+![image](https://user-images.githubusercontent.com/112924718/194314924-47efdfc5-90fe-4bac-b3cc-035327efb053.png)
+
+## 6.STORE AND RETRIEVE IN ARRAY
+
+![image](https://user-images.githubusercontent.com/112924718/194315273-791cefd1-cd7e-4c8d-bc3a-d07bdaf5d09b.png)
+
+## 7.SWAPPING
+
+![image](https://user-images.githubusercontent.com/112924718/194315808-6f9e09d9-0218-4ff4-965d-5e8345b0b926.png)
+
+## 8.FACTORIAL USING POINTERS
+
+![image](https://user-images.githubusercontent.com/112924718/194316012-337acf36-5456-4a14-95c8-6ca585c620fa.png)
+
+## 9.STUDENT GRADE
+
+
+
