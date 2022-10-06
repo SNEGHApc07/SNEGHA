@@ -196,5 +196,14 @@ DAY-3 EXPERIMENT(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-3%20EXPERIME
 
 ## 9.STUDENT GRADE
 
+![image](https://user-images.githubusercontent.com/112924718/194327265-89a2dd90-c957-4dbb-92a1-a4ad46579918.png)
+
+## 10.MINIMUM AND MAXIMUM
+
+![image](https://user-images.githubusercontent.com/112924718/194327363-77a44dd9-a12b-42f9-b2b0-b9b9b2351bf3.png)
+
+ ## 11.EMPLOYEE BONUS
+ 
+ ![image](https://user-images.githubusercontent.com/112924718/194327453-24952df7-a400-4508-9dd7-7f2ba9de8db6.png)
 
 
