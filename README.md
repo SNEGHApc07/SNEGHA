@@ -194,4 +194,40 @@ DAY-4 EXPERIMENTS(
 
 ![image](https://user-images.githubusercontent.com/112924718/194570548-dcbb0030-8b67-4b74-83dd-5ea7a6b74e72.png)
 
+## 6. ADD COMPLEX NUMBERS USING STRUCTURES
+
+![image](https://user-images.githubusercontent.com/112924718/194570797-a159616e-6bc2-4ae2-bf15-474919a27da6.png)
+
+## 7.STUDENT PERCENTAGE USING UNION
+
+![image](https://user-images.githubusercontent.com/112924718/194571017-f9957dec-6bf2-4d59-b974-3c92ac47b4ea.png)
+
+## 8.SUB COMPLEX NUMBERS USING STRING
+
+![image](https://user-images.githubusercontent.com/112924718/194571278-079b5725-3d9c-465b-a312-4b68ad034c80.png)
+
+## 9.MULTIPLY COMPLEX NUMBER USING STRUCTURE
+
+![image](https://user-images.githubusercontent.com/112924718/194571465-808a7baf-1b2b-45b9-9a1d-19400b224f86.png)
+
+## 10.DIVISION OF COMPLEX NUMBER USING STRUCTURES
+
+![image](https://user-images.githubusercontent.com/112924718/194571681-55d412fd-6b05-4629-94cf-ee33545d1f0d.png)
+
+
+## MEDIUM
+
+## 1.ASMD OF COMPLEX NUMBERS USING STRUCTURES
+
+![image](https://user-images.githubusercontent.com/112924718/194571999-4a140d7b-f96f-4cc1-a30f-23c1ec12d9c0.png)
+
+## 3.STUDENT DETAIL TO A FUNCTION
+
+![image](https://user-images.githubusercontent.com/112924718/194572487-64f59e52-701c-4bfa-943e-983e722be15a.png)
+
+## TOUGH
+
+## 1.GRADE OF STUDENT USING STRUCTURE
+
+![image](https://user-images.githubusercontent.com/112924718/194573243-792cc239-eb33-4ee2-9f69-f47b6a173f09.png)
 
