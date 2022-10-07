@@ -111,50 +111,6 @@ DAY-2 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-2%20EXPERIM
 
 
 
-## 05.10.22 EXPERIMENTS
-
-05.10.22 EXPERIMENTS(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-3%20EXPERIMENTS)
-
-## OUTPUT
-
-## 1.STUDENT
-
-![image](https://user-images.githubusercontent.com/112924718/193991513-e915b3c3-4c3a-40e5-8aa3-ec7f34fc5013.png)
-
-## 2.CONTENT FILE
-
-![image](https://user-images.githubusercontent.com/112924718/193993466-340918fd-693c-49f0-8ddc-700b9339acd3.png)
-
-## 3. COPY FILE
-
-![image](https://user-images.githubusercontent.com/112924718/193993256-4e04d8d1-540f-4626-930c-9381134c364c.png)
-
-## 4. MERGE FILES
-
-![image](https://user-images.githubusercontent.com/112924718/193994000-18932a09-38c9-4de5-9843-f5fb00e6d5b0.png)
-
-## 6. READ FILE
-
-![image](https://user-images.githubusercontent.com/112924718/193996402-75feb4d7-4c63-46c0-aad7-1a95bdeb197d.png)
-
-## 7. PRINT FILES
-
-![image](https://user-images.githubusercontent.com/112924718/193997014-f83bbd8b-21e4-4d45-a5b0-c03bcc5b8ce8.png)
-
-## 8.READING AND WRITING TO TEXT FILES
-
-![image](https://user-images.githubusercontent.com/112924718/193997718-c94b23e0-d862-4186-a66d-c44a3b36f161.png)
-
-## 9. APPEND THE CONTENT TO EXISTING FILE
-
-![image](https://user-images.githubusercontent.com/112924718/193998678-4e477265-a61f-4295-aaa5-5d18464d3229.png)
-
-## 10.ASCII VALUES
-
-![image](https://user-images.githubusercontent.com/112924718/193999084-f95bd50f-43aa-465f-bf68-6da4cd8dc229.png)
-
-
-
 
 ## DAY-3 EXPERIMENT
 
