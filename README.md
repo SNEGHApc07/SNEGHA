@@ -163,3 +163,35 @@ DAY-3 EXPERIMENT(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-3%20EXPERIME
  ![image](https://user-images.githubusercontent.com/112924718/194327453-24952df7-a400-4508-9dd7-7f2ba9de8db6.png)
 
 
+
+
+
+## DAY-4 EXPERIMENTS
+
+DAY-4 EXPERIMENTS(
+
+## OUTPUTS
+
+## EASY
+
+## 1.STORE INFO OF STUDENTS USING STRUCTURE
+
+![image](https://user-images.githubusercontent.com/112924718/194568534-262189e2-3f34-4418-bde0-12b721d1f2db.png)
+
+## 2. STUDENT DETAIL USING POINTER STRUCTURE
+
+![image](https://user-images.githubusercontent.com/112924718/194568893-3e987bfb-4aa0-4383-83d5-afddae5621a2.png)
+
+## 3.BOOK DETAILS USING FUNCTION ARGUMENTS
+
+![image](https://user-images.githubusercontent.com/112924718/194569678-79631174-470a-411a-bcf2-de14995ac310.png)
+
+## 4. STUDENT PERCENTAGE USING STRUCTURE
+
+![image](https://user-images.githubusercontent.com/112924718/194570066-0206faf1-d8e6-4d1f-8cbd-dd48d1d31da9.png)
+
+## 5.STUDENT MARK USING STRUCTURE
+
+![image](https://user-images.githubusercontent.com/112924718/194570548-dcbb0030-8b67-4b74-83dd-5ea7a6b74e72.png)
+
+
