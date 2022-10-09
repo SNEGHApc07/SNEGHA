@@ -285,4 +285,9 @@ DAY-5 EXPERIMENT(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-5%20EXPERIME
 
 ![image](https://user-images.githubusercontent.com/112924718/194749337-d1504254-46b8-499c-9e8b-4bbd240ed99a.png)
 
+## 10.ENCRYPTED FILES
+
+![image](https://user-images.githubusercontent.com/112924718/194749507-cc1cc522-b27a-4e2c-ad01-7624069e8c36.png)
+
+
 
