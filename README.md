@@ -267,4 +267,7 @@ DAY-5 EXPERIMENT(
 
 ![image](https://user-images.githubusercontent.com/112924718/194748055-733bb1ce-86d9-4752-a291-1788df9730d7.png)
 
+## 10.READ AND APPEND THE FILES
+
+![image](https://user-images.githubusercontent.com/112924718/194748185-298176f3-e9b2-4e34-9239-a3b5f448d9c4.png)
 
