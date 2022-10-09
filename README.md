@@ -239,8 +239,13 @@ DAY-5 EXPERIMENT(
 
 ## OUTPUT
 
-1.STUDENT DETAIL USING FILE
+## 1.STUDENT DETAIL USING FILE
 
 ![image](https://user-images.githubusercontent.com/112924718/194741914-e1cbe7af-673b-4615-932b-14b82eb3c0b1.png)
+
+##  2.COPY CONTENT OF FILE
+
+![image](https://user-images.githubusercontent.com/112924718/194742062-263e1922-2bb5-43c5-9989-3ccc95f007ba.png)
+
 
 
