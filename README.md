@@ -247,5 +247,8 @@ DAY-5 EXPERIMENT(
 
 ![image](https://user-images.githubusercontent.com/112924718/194742062-263e1922-2bb5-43c5-9989-3ccc95f007ba.png)
 
+## 3. ONE FILE TO ANOTHER FILE
+
+![image](https://user-images.githubusercontent.com/112924718/194742164-21043ebe-2a96-48ad-b8d2-7e96c918b2c2.png)
 
 
