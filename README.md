@@ -231,3 +231,16 @@ DAY-4 EXPERIMENTS(
 
 ![image](https://user-images.githubusercontent.com/112924718/194573243-792cc239-eb33-4ee2-9f69-f47b6a173f09.png)
 
+
+
+## DAY-5 EXPERIMENTS
+
+DAY-5 EXPERIMENT(
+
+## OUTPUT
+
+1.STUDENT DETAIL USING FILE
+
+![image](https://user-images.githubusercontent.com/112924718/194741914-e1cbe7af-673b-4615-932b-14b82eb3c0b1.png)
+
+
