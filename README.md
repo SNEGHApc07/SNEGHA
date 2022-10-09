@@ -259,4 +259,7 @@ DAY-5 EXPERIMENT(
 
 ![image](https://user-images.githubusercontent.com/112924718/194747716-86bc0e4c-ee44-4c8f-82d1-aac2a9a15c50.png)
 
+## 8. PRINT FILES
+
+![image](https://user-images.githubusercontent.com/112924718/194747979-552e2a10-2436-4e83-8ca7-2193b875cdaf.png)
 
