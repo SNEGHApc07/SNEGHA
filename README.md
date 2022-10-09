@@ -281,3 +281,8 @@ DAY-5 EXPERIMENT(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-5%20EXPERIME
 
 ![image](https://user-images.githubusercontent.com/112924718/194748947-8fe5f4b0-f141-4dec-81e7-27d60c9b85c8.png)
 
+## 8.COUNT CHARACTERS
+
+![image](https://user-images.githubusercontent.com/112924718/194749337-d1504254-46b8-499c-9e8b-4bbd240ed99a.png)
+
+
