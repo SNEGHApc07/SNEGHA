@@ -276,3 +276,8 @@ DAY-5 EXPERIMENT(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-5%20EXPERIME
 2.MERGE TWO FILES
 
 ![image](https://user-images.githubusercontent.com/112924718/194748722-776c2c80-64b2-44ce-ac41-fa6a62d4abe2.png)
+
+## 3.ASCII FILES
+
+![image](https://user-images.githubusercontent.com/112924718/194748947-8fe5f4b0-f141-4dec-81e7-27d60c9b85c8.png)
+
