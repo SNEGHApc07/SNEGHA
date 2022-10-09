@@ -271,3 +271,8 @@ DAY-5 EXPERIMENT(https://github.com/SNEGHApc07/SNEGHA/tree/main/DAY-5%20EXPERIME
 
 ![image](https://user-images.githubusercontent.com/112924718/194748185-298176f3-e9b2-4e34-9239-a3b5f448d9c4.png)
 
+## MEDIUM
+
+2.MERGE TWO FILES
+
+![image](https://user-images.githubusercontent.com/112924718/194748722-776c2c80-64b2-44ce-ac41-fa6a62d4abe2.png)
