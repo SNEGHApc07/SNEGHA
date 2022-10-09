@@ -255,5 +255,8 @@ DAY-5 EXPERIMENT(
 
 ![image](https://user-images.githubusercontent.com/112924718/194742240-1f42bd9b-fc3b-4e2c-a2de-5c6625f173fe.png)
 
-## 
+## 6. FILE REQUIRED
+
+![image](https://user-images.githubusercontent.com/112924718/194747716-86bc0e4c-ee44-4c8f-82d1-aac2a9a15c50.png)
+
 
